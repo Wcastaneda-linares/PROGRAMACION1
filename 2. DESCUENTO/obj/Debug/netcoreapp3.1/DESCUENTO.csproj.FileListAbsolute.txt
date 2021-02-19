@@ -1,0 +1,26 @@
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.exe
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.deps.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.genruntimeconfig.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.exe
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.deps.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\2. DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.genruntimeconfig.cache

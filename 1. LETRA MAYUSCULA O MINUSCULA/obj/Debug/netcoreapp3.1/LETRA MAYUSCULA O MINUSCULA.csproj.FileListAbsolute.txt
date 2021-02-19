@@ -1,0 +1,26 @@
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.exe
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.deps.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.genruntimeconfig.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.exe
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.deps.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\bin\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\1. LETRA MAYUSCULA O MINUSCULA\obj\Debug\netcoreapp3.1\LETRA MAYUSCULA O MINUSCULA.genruntimeconfig.cache
