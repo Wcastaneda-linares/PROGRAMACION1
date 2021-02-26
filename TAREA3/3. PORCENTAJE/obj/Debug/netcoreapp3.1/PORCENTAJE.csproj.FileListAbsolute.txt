@@ -1,0 +1,13 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\bin\Debug\netcoreapp3.1\PORCENTAJE.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\PORCENTAJE\obj\Debug\netcoreapp3.1\PORCENTAJE.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\bin\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\RADIANES A GRADOS Y VICEVERSA\obj\Debug\netcoreapp3.1\RADIANES A GRADOS Y VICEVERSA.genruntimeconfig.cache
