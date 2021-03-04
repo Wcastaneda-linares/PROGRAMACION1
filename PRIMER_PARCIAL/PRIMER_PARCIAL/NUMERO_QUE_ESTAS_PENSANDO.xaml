@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRIMER_PARCIAL.NUMERO_QUE_ESTAS_PENSANDO">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="PRIMER PASO:" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+            <Label Text="PIENSA EN UN NUMERO" HorizontalTextAlignment="Center" TextColor="Blue" FontSize="16"/>
+            <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+
+            <Label Text="SEGUNDO PASO:" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+            <Label Text="AHORA MULTIPLICALO * 2" HorizontalTextAlignment="Center" TextColor="Blue" FontSize="16"/>
+            <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+
+            <Label Text="TERCER PASO:" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+            <Label Text="AL RESULTADO SUMALE + 8" HorizontalTextAlignment="Center" TextColor="Blue" FontSize="16"/>
+            <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+
+            <Label Text="CUARTO PASO:" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+            <Label Text="A TU NUEVO RESULTADO MULTIPLICALO * 5" HorizontalTextAlignment="Center" TextColor="Blue" FontSize="16"/>
+            <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+
+            <Label Text="SI YA TIENES TU RESULTADO PRESIONA EL BOTON LISTO" HorizontalTextAlignment="Center" TextColor="Red" FontSize="16"/>
+            <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="6"/>
+
+            <Button x:Name="LISTO"
+             Text="LISTO"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

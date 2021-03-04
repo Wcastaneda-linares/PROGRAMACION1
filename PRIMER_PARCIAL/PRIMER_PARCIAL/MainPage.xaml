@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRIMER_PARCIAL.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="PRIMER PARCIAL PROGRAMACION 1" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+        <Label Text="MENU PRINCIPAL" HorizontalTextAlignment="Center" TextColor="Black" FontSize="32"/>
+        <Label Text="" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+
+        <Button x:Name="PRIMERBOTON"
+            Text="ADIVINAR EL NUMERO QUE ESTAS PENSANDO"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+
+        <Button x:Name="SEGUNDOBOTON"
+            Text="ADIVINAR TU FECHA DE CUMPLEAÑOS"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>
