@@ -1,0 +1,13 @@
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.exe
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.deps.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\bin\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.dll
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.pdb
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.genruntimeconfig.cache
+C:\Users\Wcastañeda\Desktop\REPOSITORIOS\SALARIO DE UN OBRERO\obj\Debug\netcoreapp3.1\SALARIO DE UN OBRERO.csprojAssemblyReference.cache

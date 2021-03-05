@@ -1,0 +1,13 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\bin\Debug\netcoreapp3.1\CICLO DO WILE.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.genruntimeconfig.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\CICLO DO WILE\obj\Debug\netcoreapp3.1\CICLO DO WILE.csprojAssemblyReference.cache

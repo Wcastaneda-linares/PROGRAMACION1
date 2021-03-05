@@ -1,0 +1,12 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.genruntimeconfig.cache

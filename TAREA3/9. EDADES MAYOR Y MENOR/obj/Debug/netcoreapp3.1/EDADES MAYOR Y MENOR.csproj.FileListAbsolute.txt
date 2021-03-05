@@ -1,0 +1,12 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\bin\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\EDADES MAYOR Y MENOR\obj\Debug\netcoreapp3.1\EDADES MAYOR Y MENOR.genruntimeconfig.cache

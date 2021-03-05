@@ -1,0 +1,12 @@
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.exe
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\bin\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.dll
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.pdb
+C:\Users\Wcastañeda\Desktop\TAREA3\NUMEROS PRIMOS ENTRE 1 AL 1000\obj\Debug\netcoreapp3.1\NUMEROS PRIMOS ENTRE 1 AL 1000.genruntimeconfig.cache
