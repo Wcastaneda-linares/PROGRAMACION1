@@ -1,0 +1,16 @@
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.exe
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.deps.json
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.dll
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\ref\EJERCICIO 3.dll
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\bin\Debug\net5.0\EJERCICIO 3.pdb
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.dll
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\ref\EJERCICIO 3.dll
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.pdb
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.genruntimeconfig.cache
+C:\Users\Wcastañeda\Desktop\TAREA CLASE 5\EJERCICIO 3\obj\Debug\net5.0\EJERCICIO 3.csprojAssemblyReference.cache
