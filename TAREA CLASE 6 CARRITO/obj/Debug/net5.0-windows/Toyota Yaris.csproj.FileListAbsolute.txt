@@ -1,0 +1,59 @@
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.exe
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.deps.json
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.json
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.genruntimeconfig.cache
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.botonQuinta.resources
+C:\Users\PC\Desktop\Nueva carpeta\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.exe
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.deps.json
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.json
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.botonQuinta.resources
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Nueva carpeta - copia\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.genruntimeconfig.cache
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.exe
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.deps.json
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.json
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Toyota Yaris\bin\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.botonQuinta.resources
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota_Yaris.Properties.Resources.resources
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.AssemblyInfo.cs
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.dll
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\ref\Toyota Yaris.dll
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.pdb
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.genruntimeconfig.cache
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\PC\Desktop\Toyota Yaris\obj\Debug\net5.0-windows\Toyota Yaris.csproj.ResolveComReference.cache
