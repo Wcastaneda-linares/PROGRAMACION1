@@ -1,0 +1,114 @@
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
+C:\Users\PC\Desktop\UMG\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wcastañeda\Desktop\Nueva carpeta\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wclinares\Desktop\UMG\POO\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\mynor\OneDrive\Escritorio\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+C:\Users\Wclinares\Downloads\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.exe
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.deps.json
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.json
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.runtimeconfig.dev.json
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.dll
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\bin\Debug\net5.0-windows\LIstado de Alumnos.pdb
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csprojAssemblyReference.cache
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Form1.resources
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado_de_Alumnos.Properties.Resources.resources
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.GenerateResource.cache
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfoInputs.cache
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.AssemblyInfo.cs
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.csproj.CoreCompileInputs.cache
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.dll
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\ref\LIstado de Alumnos.dll
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.pdb
+D:\__\LIstado de Alumnos2.0\LIstado de Alumnos\LIstado de Alumnos\obj\Debug\net5.0-windows\LIstado de Alumnos.genruntimeconfig.cache
