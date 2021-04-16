@@ -1,0 +1,38 @@
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.exe
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.deps.json
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.runtimeconfig.json
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.dll
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\ref\SEGUNDO PARCIAL.dll
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.pdb
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO_PARCIAL.Form1.resources
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.dll
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\ref\SEGUNDO PARCIAL.dll
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.pdb
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.genruntimeconfig.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csprojAssemblyReference.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO_PARCIAL.Form1.resources
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csproj.GenerateResource.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.AssemblyInfoInputs.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.AssemblyInfo.cs
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.dll
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\ref\SEGUNDO PARCIAL.dll
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.pdb
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.exe
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.deps.json
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.runtimeconfig.json
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.runtimeconfig.dev.json
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.dll
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\ref\SEGUNDO PARCIAL.dll
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\bin\Debug\net5.0-windows\SEGUNDO PARCIAL.pdb
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO PARCIAL.genruntimeconfig.cache
+C:\Users\Wclinares\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO_PARCIAL.Properties.Resources.resources
+C:\Users\PC\Desktop\SEGUNDO PARCIAL\SEGUNDO PARCIAL\obj\Debug\net5.0-windows\SEGUNDO_PARCIAL.Properties.Resources.resources
