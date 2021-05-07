@@ -1,0 +1,1 @@
+delete from tb_alumnos WHERE correlativo>0
